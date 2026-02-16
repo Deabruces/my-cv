@@ -124,6 +124,8 @@ cv:
         summary:
         highlights:
     skills:
+      - label: Leadership
+        details: Team Leadership, Distributed Teams Management, Stakeholder Management, Strategic Planning, Cross-functional Collaboration, Mentorship, Technical Decision Making
       - label: Frontend (Expert)
         details: Vue.js, React, Astro, Web Components, TypeScript, JavaScript, Tailwind CSS, Next.js
       - label: Frontend (Familiar)

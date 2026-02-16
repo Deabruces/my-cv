@@ -303,6 +303,8 @@ Industrial Engineer with deep technical expertise in decoupled architectures, AP
 
 == Skills
 
+#strong[Leadership:] Team Leadership, Distributed Teams Management, Stakeholder Management, Strategic Planning, Cross-functional Collaboration, Mentorship, Technical Decision Making
+
 #strong[Frontend (Expert):] Vue.js, React, Astro, Web Components, TypeScript, JavaScript, Tailwind CSS, Next.js
 
 #strong[Frontend (Familiar):] Angular, Stencil.js

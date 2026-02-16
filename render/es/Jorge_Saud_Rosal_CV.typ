@@ -303,6 +303,8 @@ Ingeniero Industrial con profunda experiencia técnica en arquitecturas desacopl
 
 == Habilidades
 
+#strong[Liderazgo:] Liderazgo de Equipos, Gestión de Equipos Distribuidos, Gestión de Stakeholders, Planificación Estratégica, Colaboración Cross-functional, Mentoría, Toma de Decisiones Técnicas
+
 #strong[Frontend (Experto):] Vue.js, React, Astro, Web Components, TypeScript, JavaScript, Tailwind CSS, Next.js
 
 #strong[Frontend (Familiar):] Angular, Stencil.js

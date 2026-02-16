@@ -144,6 +144,8 @@ Proyectos personales construidos con stack moderno (Vercel, Supabase, React)
 
 
 # Habilidades
+**Liderazgo:** Liderazgo de Equipos, Gestión de Equipos Distribuidos, Gestión de Stakeholders, Planificación Estratégica, Colaboración Cross-functional, Mentoría, Toma de Decisiones Técnicas
+
 **Frontend (Experto):** Vue.js, React, Astro, Web Components, TypeScript, JavaScript, Tailwind CSS, Next.js
 
 **Frontend (Familiar):** Angular, Stencil.js

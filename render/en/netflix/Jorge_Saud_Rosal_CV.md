@@ -144,6 +144,8 @@ Side projects built with modern stack (Vercel, Supabase, React)
 
 
 # Skills
+**Leadership:** Team Leadership, Distributed Teams Management, Stakeholder Management, Strategic Planning, Cross-functional Collaboration, Mentorship, Technical Decision Making
+
 **Frontend (Expert):** Vue.js, React, Astro, Web Components, TypeScript, JavaScript, Tailwind CSS, Next.js
 
 **Frontend (Familiar):** Angular, Stencil.js
