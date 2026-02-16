@@ -8,16 +8,16 @@
 
 
 # Summary
-Solutions Architect with 15+ years building and scaling web applications. Industrial Engineer by degree, developer by solving problems. Expert in decoupled frontend design, API integration, and scalable systems for financial institutions across Latin America.
+Solutions Architect and Technical Leader with 15+ years driving digital transformation across 9 countries (USA, Mexico, Chile, Colombia, Peru, Guatemala, Bahamas, Trinidad, Panama). Led teams of up to 25 engineers delivering 29+ enterprise projects for top-tier financial institutions. Proven track record defining architectural strategies during company's most profitable growth period.
 
-Passionate about making complex technical concepts accessible — from junior developers to product stakeholders. Creator of MCP tools bridging AI assistants with enterprise platforms. "A day without learning is a lost day."
+Industrial Engineer with deep technical expertise in decoupled architectures, API-driven platforms, and scalable systems. Skilled at bridging technical complexity with business objectives — from C-level stakeholders to development teams. Built company-wide standards, methodologies, and CI/CD frameworks that reduced deployment time by 40-80%. Passionate about mentorship and building high-performing distributed teams.
 
 # Experience
 ## **Customer Solutions Architect**, Modyo -- Santiago, Chile
 
 Sept 2022 – present
 
-- Delivered 17+ enterprise projects for banks, insurance companies, pension funds, and telecom across Chile, Mexico, Peru, and Colombia
+- Delivered 29+ enterprise projects for banks, insurance companies, pension funds, telecom, retail, and e-commerce across 9 countries (USA, Mexico, Chile, Colombia, Peru, Guatemala, Bahamas, Trinidad, Panama)
 
 - Lead design and implementation of scalable digital experiences for top-tier financial clients across Latin America
 
@@ -32,6 +32,14 @@ Sept 2022 – present
 - Reviewed and defined decoupled microservices architecture (Java Spring Boot) with AI-assisted workflows
 
 - Created CI/CD pipelines with GitHub Actions for automated widget deployments using modyo-cli
+
+- Designed centralized CI/CD workflows adopted company-wide, reducing deployment time by 40-80%
+
+- Resolved critical Ethical Hacking vulnerabilities unblocking production for banking clients; justified CSP policies to financial regulators
+
+- Created "Think Before Code" (TBC) methodology for widget analysis — adopted as company standard
+
+- Proposed automated testing framework (Playwright) to leadership with banking compliance and audit trail business case
 
 
 
@@ -136,19 +144,19 @@ Side projects built with modern stack (Vercel, Supabase, React)
 
 
 # Skills
-- Frontend: Vue.js, React, Angular, Stencil.js, Web Components, TypeScript, JavaScript, Astro, Next.js, Tailwind CSS
+**Frontend:** Vue.js, React, Angular, Stencil.js, Web Components, TypeScript, JavaScript, Astro, Next.js, Tailwind CSS
 
-- Mobile: React Native, Kotlin, Native Bridges, WebView-to-SDK Integration, Android WebView Shells
+**Mobile:** React Native, Kotlin, Native Bridges, WebView-to-SDK Integration, Android WebView Shells
 
-- Backend: Node.js, Deno, PHP, Laravel, Java, Spring Boot, Bash, Supabase
+**Backend:** Node.js, Deno, PHP, Laravel, Java, Spring Boot, Bash, Supabase
 
-- Architecture: Microfrontends, Decoupled Architectures, SSO Integration, Keycloak (Themes, Custom SPI), Design Systems
+**Architecture:** Microfrontends, Decoupled Architectures, SSO Integration, Keycloak (Themes, Custom SPI), Design Systems
 
-- Specializations: SPA SEO, Financial Platform Architecture, API Integration, Container Queries, Modern CSS
+**Specializations:** SPA SEO, Financial Platform Architecture, API Integration, Container Queries, Modern CSS
 
-- Tools & DevOps: Git, GitHub Actions, CI/CD, n8n, Figma, AWS, Google Cloud, Vercel, pnpm, NX
+**Tools & DevOps:** Git, GitHub Actions, CI/CD, n8n, Figma, AWS, Google Cloud, Vercel, pnpm, NX
 
-- AI & MCP: Model Context Protocol (MCP), Claude Code, GitHub Copilot, AI-assisted Development
+**AI & MCP:** Model Context Protocol (MCP), Claude Code, GitHub Copilot, AI-assisted Development
 
 # Certifications
 - AWS Cloud Quest - Cloud Practitioner
@@ -166,6 +174,6 @@ Side projects built with modern stack (Vercel, Supabase, React)
 - EF SET English Certificate (C1 Advanced)
 
 # Languages
-- Spanish: Native
+**Spanish:** Native
 
-- English: C1 Advanced
+**English:** C1 Advanced

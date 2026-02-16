@@ -85,7 +85,7 @@
 
 = Jorge Saud Rosal
 
-  #headline([Arquitecto de Soluciones | Experto Frontend | 15+ años en Desarrollo Web])
+  #headline([Líder Técnico | Arquitecto de Soluciones | 15+ Años | 29+ Proyectos en 9 Países])
 
 #connections(
   [#connection-with-icon("location-dot")[Santiago, Chile (Abierto a Reubicación)]],
@@ -98,9 +98,9 @@
 
 == Resumen
 
-Arquitecto de Soluciones con 15+ años construyendo y escalando aplicaciones web. Ingeniero Industrial de formación, desarrollador por vocación. Experto en diseño frontend desacoplado, integración de APIs y sistemas escalables para instituciones financieras en Latinoamérica.
+Arquitecto de Soluciones y Líder Técnico con 15+ años impulsando transformación digital en 9 países (EE.UU., México, Chile, Colombia, Perú, Guatemala, Bahamas, Trinidad, Panamá). Lideré equipos de hasta 25 ingenieros entregando 29+ proyectos empresariales para instituciones financieras de primer nivel. Trayectoria comprobada definiendo estrategias arquitectónicas durante el período de mayor crecimiento y rentabilidad de la empresa.
 
-Apasionado por hacer accesibles los conceptos técnicos complejos — desde desarrolladores junior hasta stakeholders de producto. Creador de herramientas MCP que conectan asistentes de IA con plataformas empresariales. \"Un día sin aprender es un día perdido.\"
+Ingeniero Industrial con profunda experiencia técnica en arquitecturas desacopladas, plataformas API-driven y sistemas escalables. Habilidad para conectar complejidad técnica con objetivos de negocio — desde stakeholders C-level hasta equipos de desarrollo. Creé estándares, metodologías y frameworks CI\/CD adoptados en toda la empresa, reduciendo tiempos de deployment en 40-80\%. Apasionado por la mentoría y construcción de equipos distribuidos de alto rendimiento.
 
 == Experiencia
 
@@ -114,7 +114,7 @@ Apasionado por hacer accesibles los conceptos técnicos complejos — desde desa
 
   ],
   main-column-second-row: [
-    - Entregué 17+ proyectos empresariales para bancos, aseguradoras, fondos de pensiones y telecomunicaciones en Chile, México, Perú y Colombia
+    - Entregué 29+ proyectos empresariales para bancos, aseguradoras, fondos de pensiones, telecomunicaciones, retail y e-commerce en 9 países (EE.UU., México, Chile, Colombia, Perú, Guatemala, Bahamas, Trinidad, Panamá)
 
     - Lideré el diseño e implementación de experiencias digitales escalables para clientes financieros de primer nivel en Latinoamérica
 
@@ -129,6 +129,14 @@ Apasionado por hacer accesibles los conceptos técnicos complejos — desde desa
     - Revisé y definí arquitectura de microservicios desacoplados (Java Spring Boot) con flujos asistidos por IA
 
     - Creé pipelines CI\/CD con GitHub Actions para despliegues automatizados de widgets usando modyo-cli
+
+    - Diseñé workflows CI\/CD centralizados adoptados en toda la empresa, reduciendo tiempo de despliegue en 40-80\%
+
+    - Resolví vulnerabilidades críticas de Ethical Hacking desbloqueando producción para clientes bancarios; justifiqué políticas CSP ante reguladores financieros
+
+    - Creé metodología \"Think Before Code\" (TBC) para análisis de widgets — adoptada como estándar de la empresa
+
+    - Propuse framework de testing automatizado (Playwright) a liderazgo con caso de negocio de compliance bancario y audit trail
 
   ],
 )

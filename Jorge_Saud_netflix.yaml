@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.4/schema.json
 cv:
   name: Jorge Saud Rosal
-  headline: Solutions Architect | Frontend Expert | 15+ years in Web Development
+  headline: Technical Leader | Solutions Architect | 15+ Years | 29+ Projects across 9 Countries
   location: Santiago, Chile (Open to Relocation)
   email: jorgelsaud@gmail.com
   photo:
@@ -15,8 +15,8 @@ cv:
   custom_connections:
   sections:
     summary:
-      - Solutions Architect with 15+ years building and scaling web applications. Industrial Engineer by degree, developer by solving problems. Expert in decoupled frontend design, API integration, and scalable systems for financial institutions across 5 countries in Latin America and the Caribbean.
-      - Passionate about making complex technical concepts accessible — from junior developers to product stakeholders. Creator of MCP tools bridging AI assistants with enterprise platforms. "A day without learning is a lost day."
+      - Solutions Architect and Technical Leader with 15+ years driving digital transformation across 9 countries (USA, Mexico, Chile, Colombia, Peru, Guatemala, Bahamas, Trinidad, Panama). Led teams of up to 25 engineers delivering 29+ enterprise projects for top-tier financial institutions. Proven track record defining architectural strategies during company's most profitable growth period.
+      - Industrial Engineer with deep technical expertise in decoupled architectures, API-driven platforms, and scalable systems. Skilled at bridging technical complexity with business objectives — from C-level stakeholders to development teams. Built company-wide standards, methodologies, and CI/CD frameworks that reduced deployment time by 40-80%. Passionate about mentorship and building high-performing distributed teams.
     experience:
       - company: Modyo
         position: Customer Solutions Architect
@@ -26,7 +26,7 @@ cv:
         location: Santiago, Chile
         summary:
         highlights:
-          - Delivered 17+ enterprise projects for banks, insurance companies, pension funds, and telecom across Chile, Colombia, Peru, Trinidad, and Panama
+          - Delivered 29+ enterprise projects for banks, insurance companies, pension funds, telecom, retail, and e-commerce across 9 countries (USA, Mexico, Chile, Colombia, Peru, Guatemala, Bahamas, Trinidad, Panama)
           - Lead design and implementation of scalable digital experiences for top-tier financial clients across Latin America
           - Defined architectural strategies during the company's most profitable years, leading a front-end team of up to 25 developers
           - Built native Android app shells with WebView wrappers enabling centralized deployments with domain-based access control

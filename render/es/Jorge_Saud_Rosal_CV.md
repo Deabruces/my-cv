@@ -8,16 +8,16 @@
 
 
 # Resumen
-Arquitecto de Soluciones con 15+ años construyendo y escalando aplicaciones web. Ingeniero Industrial de formación, desarrollador por vocación. Experto en diseño frontend desacoplado, integración de APIs y sistemas escalables para instituciones financieras en Latinoamérica.
+Arquitecto de Soluciones y Líder Técnico con 15+ años impulsando transformación digital en 9 países (EE.UU., México, Chile, Colombia, Perú, Guatemala, Bahamas, Trinidad, Panamá). Lideré equipos de hasta 25 ingenieros entregando 29+ proyectos empresariales para instituciones financieras de primer nivel. Trayectoria comprobada definiendo estrategias arquitectónicas durante el período de mayor crecimiento y rentabilidad de la empresa.
 
-Apasionado por hacer accesibles los conceptos técnicos complejos — desde desarrolladores junior hasta stakeholders de producto. Creador de herramientas MCP que conectan asistentes de IA con plataformas empresariales. "Un día sin aprender es un día perdido."
+Ingeniero Industrial con profunda experiencia técnica en arquitecturas desacopladas, plataformas API-driven y sistemas escalables. Habilidad para conectar complejidad técnica con objetivos de negocio — desde stakeholders C-level hasta equipos de desarrollo. Creé estándares, metodologías y frameworks CI/CD adoptados en toda la empresa, reduciendo tiempos de deployment en 40-80%. Apasionado por la mentoría y construcción de equipos distribuidos de alto rendimiento.
 
 # Experiencia
 ## **Arquitecto de Soluciones**, Modyo -- Santiago, Chile
 
 Sep 2022 – present
 
-- Entregué 17+ proyectos empresariales para bancos, aseguradoras, fondos de pensiones y telecomunicaciones en Chile, México, Perú y Colombia
+- Entregué 29+ proyectos empresariales para bancos, aseguradoras, fondos de pensiones, telecomunicaciones, retail y e-commerce en 9 países (EE.UU., México, Chile, Colombia, Perú, Guatemala, Bahamas, Trinidad, Panamá)
 
 - Lideré el diseño e implementación de experiencias digitales escalables para clientes financieros de primer nivel en Latinoamérica
 
@@ -32,6 +32,14 @@ Sep 2022 – present
 - Revisé y definí arquitectura de microservicios desacoplados (Java Spring Boot) con flujos asistidos por IA
 
 - Creé pipelines CI/CD con GitHub Actions para despliegues automatizados de widgets usando modyo-cli
+
+- Diseñé workflows CI/CD centralizados adoptados en toda la empresa, reduciendo tiempo de despliegue en 40-80%
+
+- Resolví vulnerabilidades críticas de Ethical Hacking desbloqueando producción para clientes bancarios; justifiqué políticas CSP ante reguladores financieros
+
+- Creé metodología "Think Before Code" (TBC) para análisis de widgets — adoptada como estándar de la empresa
+
+- Propuse framework de testing automatizado (Playwright) a liderazgo con caso de negocio de compliance bancario y audit trail
 
 
 
@@ -136,19 +144,19 @@ Proyectos personales construidos con stack moderno (Vercel, Supabase, React)
 
 
 # Habilidades
-- Frontend: Vue.js, React, Angular, Stencil.js, Web Components, TypeScript, JavaScript, Astro, Next.js, Tailwind CSS
+**Frontend:** Vue.js, React, Angular, Stencil.js, Web Components, TypeScript, JavaScript, Astro, Next.js, Tailwind CSS
 
-- Móvil: React Native, Kotlin, Puentes Nativos, Integración WebView-SDK, Shells Android WebView
+**Móvil:** React Native, Kotlin, Puentes Nativos, Integración WebView-SDK, Shells Android WebView
 
-- Backend: Node.js, Deno, PHP, Laravel, Java, Spring Boot, Bash, Supabase
+**Backend:** Node.js, Deno, PHP, Laravel, Java, Spring Boot, Bash, Supabase
 
-- Arquitectura: Microfrontends, Arquitecturas Desacopladas, Integración SSO, Keycloak (Temas, SPI Personalizado), Sistemas de Diseño
+**Arquitectura:** Microfrontends, Arquitecturas Desacopladas, Integración SSO, Keycloak (Temas, SPI Personalizado), Sistemas de Diseño
 
-- Especializaciones: SEO para SPA, Arquitectura de Plataformas Financieras, Integración de APIs, Container Queries, CSS Moderno
+**Especializaciones:** SEO para SPA, Arquitectura de Plataformas Financieras, Integración de APIs, Container Queries, CSS Moderno
 
-- Herramientas y DevOps: Git, GitHub Actions, CI/CD, n8n, Figma, AWS, Google Cloud, Vercel, pnpm, NX
+**Herramientas y DevOps:** Git, GitHub Actions, CI/CD, n8n, Figma, AWS, Google Cloud, Vercel, pnpm, NX
 
-- IA y MCP: Model Context Protocol (MCP), Claude Code, GitHub Copilot, Desarrollo Asistido por IA
+**IA y MCP:** Model Context Protocol (MCP), Claude Code, GitHub Copilot, Desarrollo Asistido por IA
 
 # Certificaciones
 - AWS Cloud Quest - Cloud Practitioner
@@ -166,6 +174,6 @@ Proyectos personales construidos con stack moderno (Vercel, Supabase, React)
 - EF SET English Certificate (C1 Avanzado)
 
 # Idiomas
-- Español: Nativo
+**Español:** Nativo
 
-- Inglés: C1 Avanzado
+**Inglés:** C1 Avanzado
