@@ -303,17 +303,25 @@ Industrial Engineer with deep technical expertise in decoupled architectures, AP
 
 == Skills
 
-#strong[Frontend:] Vue.js, React, Angular, Stencil.js, Web Components, TypeScript, JavaScript, Astro, Next.js, Tailwind CSS
+#strong[Frontend (Expert):] Vue.js, React, Astro, Web Components, TypeScript, JavaScript, Tailwind CSS, Next.js
 
-#strong[Mobile:] React Native, Kotlin, Native Bridges, WebView-to-SDK Integration, Android WebView Shells
+#strong[Frontend (Familiar):] Angular, Stencil.js
 
-#strong[Backend:] Node.js, Deno, PHP, Laravel, Java, Spring Boot, Bash, Supabase
+#strong[Mobile (Expert):] Android WebView Shells, WebView-to-SDK Integration, Native Bridges
+
+#strong[Mobile (Familiar):] React Native, Kotlin
+
+#strong[Backend (Expert):] Node.js, PHP, Laravel, Java, Spring Boot, Bash
+
+#strong[Backend (Familiar):] Deno, Supabase
 
 #strong[Architecture:] Microfrontends, Decoupled Architectures, SSO Integration, Keycloak (Themes, Custom SPI), Design Systems
 
-#strong[Specializations:] SPA SEO, Financial Platform Architecture, API Integration, Container Queries, Modern CSS
+#strong[Specializations:] Financial Platform Architecture, API Integration, SPA SEO, Container Queries, Modern CSS
 
-#strong[Tools & DevOps:] Git, GitHub Actions, CI\/CD, n8n, Figma, AWS, Google Cloud, Vercel, pnpm, NX
+#strong[Tools & DevOps (Expert):] Git, GitHub Actions, CI\/CD, pnpm, Figma, AWS, Google Cloud, Vercel, n8n
+
+#strong[Tools & DevOps (Familiar):] NX
 
 #strong[AI & MCP:] Model Context Protocol (MCP), Claude Code, GitHub Copilot, AI-assisted Development
 

@@ -303,17 +303,25 @@ Ingeniero Industrial con profunda experiencia técnica en arquitecturas desacopl
 
 == Habilidades
 
-#strong[Frontend:] Vue.js, React, Angular, Stencil.js, Web Components, TypeScript, JavaScript, Astro, Next.js, Tailwind CSS
+#strong[Frontend (Experto):] Vue.js, React, Astro, Web Components, TypeScript, JavaScript, Tailwind CSS, Next.js
 
-#strong[Móvil:] React Native, Kotlin, Puentes Nativos, Integración WebView-SDK, Shells Android WebView
+#strong[Frontend (Familiar):] Angular, Stencil.js
 
-#strong[Backend:] Node.js, Deno, PHP, Laravel, Java, Spring Boot, Bash, Supabase
+#strong[Móvil (Experto):] Shells Android WebView, Integración WebView-SDK, Puentes Nativos
+
+#strong[Móvil (Familiar):] React Native, Kotlin
+
+#strong[Backend (Experto):] Node.js, PHP, Laravel, Java, Spring Boot, Bash
+
+#strong[Backend (Familiar):] Deno, Supabase
 
 #strong[Arquitectura:] Microfrontends, Arquitecturas Desacopladas, Integración SSO, Keycloak (Temas, SPI Personalizado), Sistemas de Diseño
 
-#strong[Especializaciones:] SEO para SPA, Arquitectura de Plataformas Financieras, Integración de APIs, Container Queries, CSS Moderno
+#strong[Especializaciones:] Arquitectura de Plataformas Financieras, Integración de APIs, SEO para SPA, Container Queries, CSS Moderno
 
-#strong[Herramientas y DevOps:] Git, GitHub Actions, CI\/CD, n8n, Figma, AWS, Google Cloud, Vercel, pnpm, NX
+#strong[Herramientas y DevOps (Experto):] Git, GitHub Actions, CI\/CD, pnpm, Figma, AWS, Google Cloud, Vercel, n8n
+
+#strong[Herramientas y DevOps (Familiar):] NX
 
 #strong[IA y MCP:] Model Context Protocol (MCP), Claude Code, GitHub Copilot, Desarrollo Asistido por IA
 

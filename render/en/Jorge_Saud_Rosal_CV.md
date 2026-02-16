@@ -144,17 +144,25 @@ Side projects built with modern stack (Vercel, Supabase, React)
 
 
 # Skills
-**Frontend:** Vue.js, React, Angular, Stencil.js, Web Components, TypeScript, JavaScript, Astro, Next.js, Tailwind CSS
+**Frontend (Expert):** Vue.js, React, Astro, Web Components, TypeScript, JavaScript, Tailwind CSS, Next.js
 
-**Mobile:** React Native, Kotlin, Native Bridges, WebView-to-SDK Integration, Android WebView Shells
+**Frontend (Familiar):** Angular, Stencil.js
 
-**Backend:** Node.js, Deno, PHP, Laravel, Java, Spring Boot, Bash, Supabase
+**Mobile (Expert):** Android WebView Shells, WebView-to-SDK Integration, Native Bridges
+
+**Mobile (Familiar):** React Native, Kotlin
+
+**Backend (Expert):** Node.js, PHP, Laravel, Java, Spring Boot, Bash
+
+**Backend (Familiar):** Deno, Supabase
 
 **Architecture:** Microfrontends, Decoupled Architectures, SSO Integration, Keycloak (Themes, Custom SPI), Design Systems
 
-**Specializations:** SPA SEO, Financial Platform Architecture, API Integration, Container Queries, Modern CSS
+**Specializations:** Financial Platform Architecture, API Integration, SPA SEO, Container Queries, Modern CSS
 
-**Tools & DevOps:** Git, GitHub Actions, CI/CD, n8n, Figma, AWS, Google Cloud, Vercel, pnpm, NX
+**Tools & DevOps (Expert):** Git, GitHub Actions, CI/CD, pnpm, Figma, AWS, Google Cloud, Vercel, n8n
+
+**Tools & DevOps (Familiar):** NX
 
 **AI & MCP:** Model Context Protocol (MCP), Claude Code, GitHub Copilot, AI-assisted Development
 

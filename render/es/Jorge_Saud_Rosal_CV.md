@@ -144,17 +144,25 @@ Proyectos personales construidos con stack moderno (Vercel, Supabase, React)
 
 
 # Habilidades
-**Frontend:** Vue.js, React, Angular, Stencil.js, Web Components, TypeScript, JavaScript, Astro, Next.js, Tailwind CSS
+**Frontend (Experto):** Vue.js, React, Astro, Web Components, TypeScript, JavaScript, Tailwind CSS, Next.js
 
-**Móvil:** React Native, Kotlin, Puentes Nativos, Integración WebView-SDK, Shells Android WebView
+**Frontend (Familiar):** Angular, Stencil.js
 
-**Backend:** Node.js, Deno, PHP, Laravel, Java, Spring Boot, Bash, Supabase
+**Móvil (Experto):** Shells Android WebView, Integración WebView-SDK, Puentes Nativos
+
+**Móvil (Familiar):** React Native, Kotlin
+
+**Backend (Experto):** Node.js, PHP, Laravel, Java, Spring Boot, Bash
+
+**Backend (Familiar):** Deno, Supabase
 
 **Arquitectura:** Microfrontends, Arquitecturas Desacopladas, Integración SSO, Keycloak (Temas, SPI Personalizado), Sistemas de Diseño
 
-**Especializaciones:** SEO para SPA, Arquitectura de Plataformas Financieras, Integración de APIs, Container Queries, CSS Moderno
+**Especializaciones:** Arquitectura de Plataformas Financieras, Integración de APIs, SEO para SPA, Container Queries, CSS Moderno
 
-**Herramientas y DevOps:** Git, GitHub Actions, CI/CD, n8n, Figma, AWS, Google Cloud, Vercel, pnpm, NX
+**Herramientas y DevOps (Experto):** Git, GitHub Actions, CI/CD, pnpm, Figma, AWS, Google Cloud, Vercel, n8n
+
+**Herramientas y DevOps (Familiar):** NX
 
 **IA y MCP:** Model Context Protocol (MCP), Claude Code, GitHub Copilot, Desarrollo Asistido por IA
 
