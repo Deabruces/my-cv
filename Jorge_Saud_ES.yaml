@@ -15,7 +15,7 @@ cv:
   custom_connections:
   sections:
     resumen:
-      - Arquitecto de Soluciones con 15+ años construyendo y escalando aplicaciones web. Ingeniero Industrial de formación, desarrollador por vocación. Experto en diseño frontend desacoplado, integración de APIs y sistemas escalables para instituciones financieras en Latinoamérica.
+      - Arquitecto de Soluciones con 15+ años construyendo y escalando aplicaciones web. Ingeniero Industrial de formación, desarrollador por vocación. Experto en diseño frontend desacoplado, integración de APIs y sistemas escalables para instituciones financieras en 5 países de Latinoamérica y el Caribe.
       - Apasionado por hacer accesibles los conceptos técnicos complejos — desde desarrolladores junior hasta stakeholders de producto. Creador de herramientas MCP que conectan asistentes de IA con plataformas empresariales. "Un día sin aprender es un día perdido."
     experiencia:
       - company: Modyo
@@ -26,7 +26,7 @@ cv:
         location: Santiago, Chile
         summary:
         highlights:
-          - Entregué 17+ proyectos empresariales para bancos, aseguradoras, fondos de pensiones y telecomunicaciones en Chile, México, Perú y Colombia
+          - Entregué 17+ proyectos empresariales para bancos, aseguradoras, fondos de pensiones y telecomunicaciones en Chile, Colombia, Perú, Trinidad y Panamá
           - Lideré el diseño e implementación de experiencias digitales escalables para clientes financieros de primer nivel en Latinoamérica
           - Definí estrategias arquitectónicas durante los años más rentables de la empresa, liderando un equipo frontend de hasta 25 desarrolladores
           - Construí shells Android nativos con WebView wrappers para despliegues centralizados con control de acceso basado en dominios
@@ -34,6 +34,10 @@ cv:
           - Diseñé patrones de arquitectura frontend (microfrontends vía plataforma Modyo) para aplicaciones empresariales usando Vue.js, React y Web Components
           - Revisé y definí arquitectura de microservicios desacoplados (Java Spring Boot) con flujos asistidos por IA
           - Creé pipelines CI/CD con GitHub Actions para despliegues automatizados de widgets usando modyo-cli
+          - Diseñé workflows CI/CD centralizados adoptados en toda la empresa, reduciendo tiempo de despliegue en 40-80%
+          - Resolví vulnerabilidades críticas de Ethical Hacking desbloqueando producción para clientes bancarios; justifiqué políticas CSP ante reguladores financieros
+          - Creé metodología "Think Before Code" (TBC) para análisis de widgets — adoptada como estándar de la empresa
+          - Propuse framework de testing automatizado (Playwright) a liderazgo con caso de negocio de compliance bancario y audit trail
       - company: Modyo
         position: Arquitecto Front End
         date:

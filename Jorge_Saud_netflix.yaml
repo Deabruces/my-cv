@@ -15,7 +15,7 @@ cv:
   custom_connections:
   sections:
     summary:
-      - Solutions Architect with 15+ years building and scaling web applications. Industrial Engineer by degree, developer by solving problems. Expert in decoupled frontend design, API integration, and scalable systems for financial institutions across Latin America.
+      - Solutions Architect with 15+ years building and scaling web applications. Industrial Engineer by degree, developer by solving problems. Expert in decoupled frontend design, API integration, and scalable systems for financial institutions across 5 countries in Latin America and the Caribbean.
       - Passionate about making complex technical concepts accessible — from junior developers to product stakeholders. Creator of MCP tools bridging AI assistants with enterprise platforms. "A day without learning is a lost day."
     experience:
       - company: Modyo
@@ -26,7 +26,7 @@ cv:
         location: Santiago, Chile
         summary:
         highlights:
-          - Delivered 17+ enterprise projects for banks, insurance companies, pension funds, and telecom across Chile, Mexico, Peru, and Colombia
+          - Delivered 17+ enterprise projects for banks, insurance companies, pension funds, and telecom across Chile, Colombia, Peru, Trinidad, and Panama
           - Lead design and implementation of scalable digital experiences for top-tier financial clients across Latin America
           - Defined architectural strategies during the company's most profitable years, leading a front-end team of up to 25 developers
           - Built native Android app shells with WebView wrappers enabling centralized deployments with domain-based access control
@@ -34,6 +34,10 @@ cv:
           - Designed frontend architecture patterns (microfrontends via Modyo platform) for enterprise applications using Vue.js, React, and Web Components
           - Reviewed and defined decoupled microservices architecture (Java Spring Boot) with AI-assisted workflows
           - Created CI/CD pipelines with GitHub Actions for automated widget deployments using modyo-cli
+          - Designed centralized CI/CD workflows adopted company-wide, reducing deployment time by 40-80%
+          - Resolved critical Ethical Hacking vulnerabilities unblocking production for banking clients; justified CSP policies to financial regulators
+          - Created "Think Before Code" (TBC) methodology for widget analysis — adopted as company standard
+          - Proposed automated testing framework (Playwright) to leadership with banking compliance and audit trail business case
       - company: Modyo
         position: Front End Architect
         date:
