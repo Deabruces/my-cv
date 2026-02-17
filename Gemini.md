@@ -12,31 +12,17 @@ Personal CV repository using [RenderCV](https://github.com/rendercv/rendercv) (v
 # Install RenderCV
 pip install rendercv
 
-# Render English CV
-rendercv render Jorge_Saud.yaml
-
-# Render Spanish CV
-rendercv render Jorge_Saud_ES.yaml
-
-# Render Netflix variant
-rendercv render Jorge_Saud_netflix.yaml
-
-# Create new CV from scratch
-rendercv new "Full Name"
+rendercv render deannybruces.yaml
 ```
 
 ## File Structure
 
-- `Jorge_Saud.yaml` - English CV source (primary)
-- `Jorge_Saud_ES.yaml` - Spanish CV source
-- `Jorge_Saud_netflix.yaml` - Targeted variant for specific applications
-- `render/en/` - English output files (PDF, HTML, MD, TYP, PNG)
-- `render/es/` - Spanish output files
-- `career-doc.md`, `career-presentation.md` - Supporting career documentation
+- `deannybruces.yaml` - English CV source (primary)
 
 ## YAML Schema
 
 Files use the RenderCV v2.4 schema. Key sections in `cv:`:
+
 - `name`, `headline`, `location`, `email`, `website`
 - `social_networks` (LinkedIn, GitHub)
 - `sections`: summary, experience, projects, education, skills, certifications, languages

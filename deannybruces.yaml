@@ -1,0 +1,108 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.4/schema.json
+cv:
+  name: Deanny Bruces Molina
+  headline: PMO / Project Analyst | Technology & Digital Projects | Industrial Engineering | Agile & Scrum Mindset | Web Development Experience
+  location: Santiago, Chile
+  email: deannybruces@gmail.com
+  phone: "+56 993068782"
+  social_networks:
+    - network: LinkedIn
+      username: deannybruces
+  sections:
+    summary:
+      - Industrial Engineer with over 14 years of experience in project management, process optimization, and coordination of digital initiatives. Proven track record of acting as a bridge between technical development teams and business stakeholders.
+      - Strong background in web development projects since 2019, with expertise in planning, requirements gathering, and agile delivery. Focused on continuous improvement, quality standards (ISO 9001), and leveraging AI tools for productivity and documentation.
+    experience:
+      - company: Independent Professional
+        position: PMO / Project Coordination (Training & Personal Projects)
+        start_date: 2025-07
+        end_date: present
+        location: Santiago, Chile
+        highlights:
+          - Leading and coordinating digital initiatives, facilitating planning, execution, and monitoring of web development projects
+          - Collaborating with multidisciplinary teams to define priorities, organize tasks, and ensure strategic goal alignment
+          - Promoting agile methodologies and effective communication between technical and business stakeholders
+      - company: Freelance (Self-employed)
+        position: Frontend Web Developer
+        start_date: 2019-03
+        end_date: present
+        location: Santiago, Chile
+        highlights:
+          - Development and maintenance of modern, responsive websites focusing on UI/UX
+          - Implementation of custom WordPress themes, visual layouts, and personalized CSS
+          - Performance optimization, on-page SEO, and integration of external automation tools
+          - Agile project management: requirements analysis, planning, and delivery tracking
+      - company: Artel S.A.I.C
+        position: Local Administrator B
+        start_date: 2018-06
+        end_date: 2018-12
+        location: Santiago, Chile
+        highlights:
+          - Managed commercial operations, sales, and inventory for local retail
+          - Supervised personnel and ensured fulfillment of commercial targets
+          - Controlled expenses and implemented loss prevention strategies
+      - company: Geservmant, c.a.
+        position: Administrative Manager
+        start_date: 2010-09
+        end_date: 2017-07
+        location: Puerto Ordaz, Venezuela
+        highlights:
+          - Supervised projects and controlled resources for administrative operations
+          - Managed contracts, documentation, and financial statements
+          - Developed administrative procedures and organizational policies
+      - company: Venimpres, c.a. / Diario Primicia
+        position: Quality Management System Consultant
+        start_date: 2010-05
+        end_date: 2011-01
+        location: Puerto Ordaz, Venezuela
+        highlights:
+          - Conducted initial diagnosis through interviews and records
+          - Mapped processes and developed ISO 9001 implementation strategies
+          - Drafted quality manuals and designed process flow indicators
+      - company: Universidad Católica Andrés Bello
+        position: Quality Management System Analyst (DSGC)
+        start_date: 2009-03
+        end_date: 2010-07
+        location: Puerto Ordaz, Venezuela
+        highlights:
+          - Monitored compliance with ISO 9001 standards across university units
+          - Proposed process improvement indicators and updated organizational charts
+          - Facilitated communication between senior management and department heads
+    education:
+      - institution: Universidad Católica Andrés Bello
+        area: Industrial Engineering
+        degree: Engineer
+        start_date: 2004
+        end_date: 2009
+        location: Venezuela
+    skills:
+      - label: Management
+        details: Project & Digital Management, Agile & Scrum Mindset, Stakeholder Coordination, Requirements Engineering
+      - label: Technical
+        details: Frontend Development (HTML, CSS, JavaScript), WordPress, SEO Optimization, AI for Productivity
+      - label: Quality & Processes
+        details: ISO 9001, Process Optimization, Continuous Improvement, Documentation, KPIs
+    languages:
+      - label: Spanish
+        details: Native
+      - label: English
+        details: Professional working proficiency
+design:
+  theme: moderncv
+locale:
+  language: english
+settings:
+  current_date: "2026-02-17"
+  render_command:
+    design:
+    locale:
+    typst_path: render/en/deanny_bruces_cv.typ
+    pdf_path: render/en/deanny_bruces_cv.pdf
+    markdown_path: render/en/deanny_bruces_cv.md
+    html_path: render/en/deanny_bruces_cv.html
+    png_path: render/en/deanny_bruces_cv.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false

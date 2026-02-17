@@ -1,0 +1,108 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.4/schema.json
+cv:
+  name: Deanny Bruces Molina
+  headline: PMO / Analista de Proyectos | Proyectos Tecnológicos y Digitales | Ingeniería Industrial | Agile & Scrum Mindset | Experiencia en Desarrollo Web
+  location: Santiago, Chile
+  email: deannybruces@gmail.com
+  phone: "+56 993068782"
+  social_networks:
+    - network: LinkedIn
+      username: deannybruces
+  sections:
+    summary:
+      - Ingeniera Industrial con más de 14 años de experiencia en gestión de proyectos, optimización de procesos y coordinación de iniciativas digitales. Mi trayectoria combina operaciones administrativas y de mejora continua con experiencia práctica en desarrollo web, actuando como puente entre equipos técnicos y áreas de negocio.
+      - Desde 2019 he participado en proyectos de desarrollo web, liderando la planificación, organización de requerimientos y seguimiento de entregables bajo metodologías ágiles. Destaco por estructurar procesos, facilitar la comunicación entre stakeholders y promover entornos de trabajo colaborativos orientados a resultados.
+    experience:
+      - company: Profesional independiente
+        position: PMO / Coordinación de Proyectos (Formación y Proyectos Personales)
+        start_date: 2025-07
+        end_date: present
+        location: Santiago, Chile
+        highlights:
+          - Liderazgo y coordinación de iniciativas digitales, facilitando la planificación, ejecución y seguimiento de proyectos web
+          - Colaboración con equipos multidisciplinarios para la definición de prioridades y organización de tareas estratégicas
+          - Promoción de metodologías ágiles (Scrum/Agile mindset) y comunicación efectiva entre áreas técnicas y de negocio
+      - company: Freelance
+        position: Desarrollador Front-end
+        start_date: 2019-03
+        end_date: present
+        location: Santiago, Chile
+        highlights:
+          - Desarrollo y mantenimiento de sitios web modernos y responsivos con enfoque en UI/UX
+          - Implementación de WordPress (temas, maquetación visual y CSS personalizado)
+          - Optimización de rendimiento, SEO on-page e integración de automatizaciones y herramientas externas
+          - Gestión de proyectos ágiles: levantamiento de requerimientos, planificación y control de cambios
+      - company: Artel S.A.I.C
+        position: Administrador Local B
+        start_date: 2018-06
+        end_date: 2018-12
+        location: Santiago, Chile
+        highlights:
+          - Administración del local comercial, gestión de ventas e inventarios
+          - Supervisión de personal y cumplimiento de metas comerciales mensuales
+          - Control de gastos y aplicación de estrategias para la prevención de pérdidas
+      - company: Geservmant, c.a.
+        position: Gerente Administrativo
+        start_date: 2010-09
+        end_date: 2017-07
+        location: Puerto Ordaz, Venezuela
+        highlights:
+          - Supervisión de proyectos y control de recursos para operaciones administrativas
+          - Control de contratos, documentación legal y estados financieros
+          - Elaboración de procedimientos operativos y políticas administrativas de la empresa
+      - company: Venimpres, c.a. / Diario Primicia
+        position: Asesor Sistema de Gestión de Calidad
+        start_date: 2010-05
+        end_date: 2011-01
+        location: Puerto Ordaz, Venezuela
+        highlights:
+          - Realización de diagnósticos iniciales mediante entrevistas y registros de procesos
+          - Levantamiento de perfiles de cargo, mapas de procesos e implementación de la norma ISO 9001
+          - Redacción de manuales de calidad y diseño de indicadores de gestión (KPIs)
+      - company: Universidad Católica Andrés Bello
+        position: Analista Dirección Sistema de Gestión de Calidad (DSGC)
+        start_date: 2009-03
+        end_date: 2010-07
+        location: Puerto Ordaz, Venezuela
+        highlights:
+          - Gestión y seguimiento del cumplimiento de requisitos ISO 9001 en unidades universitarias
+          - Actualización de síntesis de procesos, flujogramas y propuestas de mejora continua
+          - Asistencia en auditorías internas y comunicación directa con la alta gerencia
+    education:
+      - institution: Universidad Católica Andrés Bello
+        area: Ingeniería Industrial
+        degree: Ingeniero
+        start_date: 2004
+        end_date: 2009
+        location: Venezuela
+    skills:
+      - label: Gestión
+        details: Project & Digital Management, Agile & Scrum Mindset, Coordinación de Stakeholders, Levantamiento de Requerimientos
+      - label: Técnicas
+        details: Desarrollo Frontend (HTML, CSS, JavaScript), WordPress, Optimización SEO, IA para Productividad
+      - label: Calidad y Procesos
+        details: ISO 9001, Optimización de Procesos, Mejora Continua, Documentación Técnica, Flujogramas
+    languages:
+      - label: Español
+        details: Nativo
+      - label: Inglés
+        details: Competencia profesional completa
+design:
+  theme: moderncv
+locale:
+  language: spanish
+settings:
+  current_date: "2026-02-17"
+  render_command:
+    design:
+    locale:
+    typst_path: render/es/deanny_bruces_cv.typ
+    pdf_path: render/es/deanny_bruces_cv.pdf
+    markdown_path: render/es/deanny_bruces_cv.md
+    html_path: render/es/deanny_bruces_cv.html
+    png_path: render/es/deanny_bruces_cv.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
