@@ -31,6 +31,27 @@ Este archivo es la fuente de contexto centralizada para asegurar que cada intera
 - **Prioridad 2:** Cargos "Trainee" o "Analista" en sectores industriales/metalmecánicos (fuerte valor del título de Ing. Industrial).
 - **Filtros de Descarte:** Ignorar cargos "Senior", "Líder de Oficina" o vacantes con requisitos técnicos de hardware/electricidad/nube avanzada.
 
-## 📈 Estado Actual
-- **Postulaciones Realizadas Hoy:** 4 (Genesys, Kibernum, SMS Chile, Maestranza Diesel).
-- **Meta Próxima Sesión:** Expandir búsqueda a LinkedIn bajo los mismos cargos y tono de "Puente Técnico".
+## 📈 Estado Actual (Última Sesión: 08/03/2026)
+- **Hito Logrado:** Alineación total de marca personal en LinkedIn, Computrabajo y Getonbrd (Enfoque: PMO Analyst / Coordinadora).
+- **Postulaciones Realizadas:** 5 sólidas (Genesys, Kibernum, SMS Chile, Maestranza Diesel, BC Tecnología).
+- **Herramienta Maestra:** `deannybruces_updated.yml` (CV optimizado para ATS).
+
+## 🚀 Hoja de Ruta de Continuidad
+### Fase 1: Expansión de Canales (Próxima Sesión)
+1. **Laborum:** Actualizar perfil y subir `Deanny_Bruces_CV.pdf`. Foco: Analista de Gestión / Procesos en Retail/Banca.
+2. **FirstJob:** Explorar vacantes de "Trainee PMO" en grandes corporaciones.
+
+### Fase 2: Seguimiento Activo (48h después de postular)
+1. Buscar en LinkedIn a los reclutadores de las 5 empresas postuladas.
+2. Enviar mensaje de cortesía reforzando el perfil híbrido (Ing. Industrial + Tech).
+
+### Fase 3: Preparación de Entrevistas
+1. Practicar preguntas técnicas de PMO: "Cómo manejas un retraso de hito técnico", "Cómo comunicas riesgos al negocio".
+2. Revisar los expedientes individuales en la carpeta `postulaciones/` antes de cada llamada.
+
+## 🤖 Instrucciones para el Asistente (Contexto de Continuidad)
+Al iniciar una nueva sesión, el asistente DEBE:
+1. Leer este archivo y el `Registro_Postulaciones.md`.
+2. Mantener la **Honestidad Brutal** y no recomendar cargos Senior o fuera de rubro.
+3. Priorizar el reingreso rápido al mercado laboral chileno en zonas estratégicas (Las Condes, Providencia, Santiago Centro).
+4. Usar siempre el YAML `deannybruces_updated.yml` para cualquier ajuste de currículum.

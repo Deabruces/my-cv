@@ -7,46 +7,44 @@
 
 
 # Resumen Profesional
-Ingeniera Industrial con sólida trayectoria en gestión de procesos, optimización operativa y soporte a proyectos en entornos corporativos y tecnológicos.
+Ingeniera Industrial con sólida trayectoria en gestión de procesos, optimización operativa y soporte estratégico a proyectos en entornos tecnológicos.
 
-Enfocada en el análisis y seguimiento de proyectos digitales, control de KPIs, gestión documental y coordinación de stakeholders para asegurar la calidad y cumplimiento de hitos.
+Especializada en el análisis y seguimiento de proyectos digitales, control de KPIs, gestión documental y coordinación de stakeholders para asegurar el cumplimiento de hitos críticos.
 
-Actualmente profundizando en metodologías ágiles (Scrum) para fortalecer la conexión entre objetivos de negocio y ejecución técnica.
+Perfil híbrido con background técnico en desarrollo que facilita la comunicación efectiva entre las necesidades de negocio y la ejecución técnica.
 
-Perfil analítico, orientado a la mejora continua y a la generación de reportes precisos para el soporte en la toma de decisiones.
+Actualmente profundizando en marcos ágiles (Scrum), orientada a la mejora continua y a la generación de reportes precisos para el soporte en la toma de decisiones.
 
 # Experiencia Profesional
 ## **PMO Analyst / Project Coordination (Proyectos Digitales)**, Profesional Independiente -- Santiago, Chile
 
 Jul 2025 – presente
 
-- Coordinación simultánea de 3–5 proyectos digitales, monitoreando cronogramas, hitos y entregables.
+- Coordinación simultánea de 3–5 proyectos digitales, monitoreando cronogramas, hitos y entregables bajo metodologías Agile.
 
 - Apoyo en la planificación de proyectos y organización de backlog bajo metodologías Agile / Scrum.
 
-- Seguimiento de KPIs de avance y detección temprana de riesgos o desviaciones.
+- Seguimiento de KPIs de avance y detección temprana de riesgos operativos para asegurar la continuidad del proyecto.
 
-- Elaboración de reportes de estado e informes de avance para stakeholders.
+- Elaboración de reportes de estado (Status Reports) e informes de métricas clave para stakeholders.
 
-- Coordinación entre equipos técnicos y áreas de negocio.
+- Facilitación de la comunicación entre equipos técnicos y áreas de negocio, asegurando alineación de objetivos.
 
-- Gestión documental y control de cambios durante el ciclo de vida del proyecto.
+- Gestión documental y control de cambios durante todo el ciclo de vida del desarrollo.
 
 
 
-## **Project Management Support & Frontend Developer**, Freelance -- Santiago, Chile
+## **Project Management Support & Web Developer**, Freelance -- Santiago, Chile
 
-Mar 2019 – presente
+Ene 2020 – presente
 
-- Gestión integral de proyectos web desde levantamiento de requerimientos hasta entrega final.
+- Gestión integral de proyectos web liderando desde el levantamiento de requerimientos funcionales hasta la entrega final al cliente.
 
-- Coordinación con clientes y colaboradores técnicos asegurando alineación de alcance, cronograma y entregables.
+- Coordinación con clientes y colaboradores técnicos para asegurar la alineación de alcance, cronograma y calidad de los entregables.
 
-- Documentación funcional y control de cambios, reduciendo retrabajos.
+- Soporte técnico especializado en implementaciones sobre WordPress utilizando HTML, CSS, JavaScript y React.
 
-- Desarrollo e implementación de sitios en WordPress utilizando HTML, CSS y JavaScript.
-
-- Optimización de rendimiento web y SEO on-page.
+- Optimización de rendimiento web y mejora de procesos de SEO on-page, incrementando la visibilidad de los productos digitales.
 
 
 
@@ -54,11 +52,11 @@ Mar 2019 – presente
 
 Jun 2018 – Dic 2018
 
-- Supervisión de equipo operativo y seguimiento de KPIs comerciales.
+- Supervisión de equipo operativo y control de KPIs comerciales, optimizando el rendimiento de la unidad de negocio.
 
-- Control de inventarios y optimización de procesos operativos.
+- Gestión de inventarios y optimización de procesos operativos internos para la reducción de mermas.
 
-- Gestión y control de gastos operativos.
+- Control de gastos operativos y elaboración de reportes de gestión financiera local.
 
 
 
@@ -66,35 +64,35 @@ Jun 2018 – Dic 2018
 
 Sep 2010 – Jul 2017
 
-- Supervisión operativa de proyectos y control de presupuestos.
+- Supervisión operativa de proyectos y control riguroso de presupuestos asignados.
 
-- Gestión de contratos y soporte en la documentación legal.
+- Gestión administrativa de contratos y soporte en la documentación legal de los proyectos.
 
-- Diseño e implementación de procedimientos operativos internos.
+- Diseño e implementación de procedimientos operativos internos bajo estándares de eficiencia.
 
-- Seguimiento de indicadores de gestión (KPIs) para la mejora de procesos.
+- Seguimiento de indicadores de gestión (KPIs) y liderazgo en iniciativas de mejora de procesos.
 
 
 
-## **Asesor Sistema de Gestión de Calidad**, Venimpres C.A. / Diario Primicia -- Puerto Ordaz, Venezuela
+## **Asesor Sistema de Gestión de Calidad (ISO 9001)**, Venimpres C.A. / Diario Primicia -- Puerto Ordaz, Venezuela
 
 May 2010 – Ene 2011
 
-- Implementación del Sistema de Gestión de Calidad ISO 9001.
+- Liderazgo en la implementación del Sistema de Gestión de Calidad basado en la norma ISO 9001.
 
-- Diseño de indicadores de gestión.
+- Diseño de cuadros de mando e indicadores de gestión para el monitoreo del desempeño organizacional.
 
-- Elaboración de manuales y mapas de procesos.
+- Elaboración de manuales de procedimientos y mapas de procesos transversales.
 
 
 
-## **Analista Dirección Sistema de Gestión de Calidad**, Universidad Católica Andrés Bello -- Puerto Ordaz, Venezuela
+## **Analista de Gestión de Calidad**, Universidad Católica Andrés Bello -- Puerto Ordaz, Venezuela
 
 Mar 2009 – Jul 2010
 
-- Seguimiento del cumplimiento de estándares ISO 9001.
+- Monitoreo del cumplimiento de estándares internacionales de calidad y auditorías internas de procesos.
 
-- Apoyo en auditorías internas y procesos de mejora continua.
+- Apoyo técnico en la mejora continua de los flujos operativos de la dirección.
 
 
 
@@ -111,15 +109,15 @@ Mar 2009 – Jul 2010
 Preparación actual para certificación Scrum (Scrum Fundamentals / Scrum Certification)
 
 # Habilidades
-**Gestión de Proyectos:** Planificación de proyectos, Seguimiento de cronogramas, Gestión de alcance, Control de cambios, Gestión de riesgos, Coordinación de stakeholders, Seguimiento de KPIs, Control presupuestario
+**Project Management:** Planificación de proyectos, Seguimiento de cronogramas, Gestión de alcance, Control de cambios, Gestión de riesgos, Seguimiento de KPIs, Control presupuestario
 
-**Metodologías:** Agile, Scrum, Mejora continua
+**Metodologías:** Agile, Scrum, Kanban, Lean, Mejora continua, ISO 9001
 
-**Herramientas:** Notion, Trello, Microsoft Excel, Google Sheets, Git, Slack
+**Herramientas:** Jira, Trello, Microsoft Excel (Avanzado), Google Sheets, Notion, Slack
 
-**Técnicas:** HTML, CSS, JavaScript, WordPress, SEO On-Page
+**Tecnologías Digitales:** Background técnico en Desarrollo Web (HTML, CSS, JavaScript, WordPress, React), Git, Github
 
-**Calidad y Procesos:** ISO 9001, Optimización de procesos, Flujogramas, Documentación técnica
+**Calidad y Procesos:** Optimización de procesos, Flujogramas, Documentación técnica, Gestión de stakeholders
 
 # Idiomas
 **Español:** Nativo
