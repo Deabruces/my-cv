@@ -28,5 +28,14 @@
 - **Próxima Acción:** [Ej: Esperar llamado / Seguir proceso en 1 semana]
 
 ---
+## 🧠 Preparación de Entrevista (Específica)
+### Preguntas Probables (Rubro):
+1. **[Pregunta 1]:** [Base de respuesta]
+2. **[Pregunta 2]:** [Base de respuesta]
+
+### Puntos a Resaltar:
+- [Punto clave de tu perfil que hace match con esta empresa]
+
+---
 ## 📓 Notas de la Entrevista
 - [Anotar aquí puntos clave mencionados en la llamada]

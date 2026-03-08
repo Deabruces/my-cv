@@ -30,5 +30,16 @@
 - **Próxima Acción:** Esperar contacto por parte de Maestranza Diesel.
 
 ---
+## 🧠 Preparación de Entrevista (Específica)
+### Preguntas Probables (Maestranza Diesel - Industrial/Minería):
+1. **"Siendo Ingeniera Industrial, ¿cómo aplicas el control de gestión en una empresa de manufactura/servicios mineros?"**
+   - *Respuesta:* Me enfoco en la trazabilidad y el cumplimiento de estándares. En minería, el error operativo es costoso, por lo que mi gestión se basa en KPIs preventivos y en asegurar que cada hito del proyecto cumpla con las normativas técnicas y de seguridad exigidas.
+2. **"¿Estás dispuesta a aprender y manejar un ERP robusto como SAP?"**
+   - *Respuesta:* Por supuesto. Mi formación académica y mi experiencia con herramientas digitales me permiten aprender flujos lógicos de software con rapidez. Entiendo que el ERP es el corazón de la reportabilidad y estoy lista para ser una usuaria experta.
+
+### Puntos a Resaltar:
+- Tu título de **Ingeniera Industrial** es tu mayor activo aquí. Resalta tu amor por los procesos y el orden.
+
+---
 ## 📓 Notas de la Entrevista
 - [Anotar aquí puntos clave mencionados en la llamada]

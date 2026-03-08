@@ -22,12 +22,22 @@
 - **Experiencia en Planificación/Seguimiento:** Se destacó la coordinación actual de 3-5 proyectos digitales y la base de Ingeniería Industrial para el control de hitos.
 - **Herramientas de Gestión:** Excel Avanzado (métrica/presupuesto), Jira/Trello (Agile) y Notion para documentación.
 - **Reportes a Stakeholders:** Experiencia traduciendo métricas técnicas en Status Reports orientados a valor de negocio.
-- **Carta de Presentación:** Se envió la versión adaptada para Analista PMO / Puente Técnico.
 
 ## 📈 Estado del Proceso
 - **Estado:** Postulado.
 - **Fecha de Postulación:** 08/03/2026.
 - **Próxima Acción:** Esperar llamado telefónico o mensaje en Computrabajo.
+
+---
+## 🧠 Preparación de Entrevista (Específica)
+### Preguntas Probables (Genesys - Software Factory):
+1. **"¿Cómo manejas la presión de trabajar con múltiples clientes externos simultáneamente?"**
+   - *Respuesta:* Menciona tu metodología de priorización de backlog y el uso de tableros Kanban para mantener la visibilidad de cada proyecto sin perder el foco en los hitos de entrega.
+2. **"¿Cómo te comunicas con los desarrolladores cuando hay un retraso técnico?"**
+   - *Respuesta:* Resalta tu background Frontend. Diles que hablas su idioma, lo que te permite entender si el retraso es por deuda técnica o complejidad imprevista, y así negociar una solución realista con el cliente.
+
+### Puntos a Resaltar:
+- Tu perfil es ideal para una Software Factory porque entiendes tanto el proceso de ingeniería (negocio) como el producto final (código).
 
 ---
 ## 📓 Notas de la Entrevista

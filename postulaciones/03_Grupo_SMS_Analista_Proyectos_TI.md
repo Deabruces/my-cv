@@ -30,5 +30,16 @@
 - **Próxima Acción:** Esperar contacto por parte de GRUPO SMS para entrevista inicial.
 
 ---
+## 🧠 Preparación de Entrevista (Específica)
+### Preguntas Probables (GRUPO SMS - Consultoría TI):
+1. **"¿Cómo coordinas proyectos que involucran a áreas tan distintas como Desarrollo e Infraestructura?"**
+   - *Respuesta:* Mi rol es asegurar que los requerimientos funcionales del negocio se traduzcan en tareas técnicas claras para ambas áreas. Utilizo cronogramas integrados donde los hitos de infraestructura (ej. servidores) se alinean con los sprints de desarrollo, evitando cuellos de botella.
+2. **"¿Qué haces si un stakeholder técnico te da una estimación que consideras poco realista?"**
+   - *Respuesta:* Gracias a mi background en desarrollo, puedo hacer las preguntas correctas para entender la complejidad técnica. No impongo tiempos, pero negocio basándome en la priorización del valor para el negocio y la capacidad real del equipo.
+
+### Puntos a Resaltar:
+- Tu capacidad de actuar como **traductora** entre el lenguaje de fierros/código y el lenguaje de plazos/presupuestos de la gerencia.
+
+---
 ## 📓 Notas de la Entrevista
 - [Anotar aquí puntos clave mencionados en la llamada]
