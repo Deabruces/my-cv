@@ -1,0 +1,125 @@
+cv:
+  name: Deanny Bruces
+  headline: Ingeniera Industrial | PMO Analyst | Project Coordinator | Digital Projects | Agile Focus
+  location: Santiago, Chile
+  email: deannybruces@gmail.com
+  phone: '+56 9 9306 8782'
+  social_networks:
+    - network: LinkedIn
+      username: deannybruces
+
+  sections:
+    Resumen Profesional:
+      - 'Ingeniera Industrial con sólida trayectoria en gestión de procesos, optimización operativa y soporte a proyectos en entornos corporativos y tecnológicos.'
+      - 'Enfocada en el análisis y seguimiento de proyectos digitales, control de KPIs, gestión documental y coordinación de stakeholders para asegurar la calidad y cumplimiento de hitos.'
+      - 'Actualmente profundizando en metodologías ágiles (Scrum) para fortalecer la conexión entre objetivos de negocio y ejecución técnica.'
+      - 'Perfil analítico, orientado a la mejora continua y a la generación de reportes precisos para el soporte en la toma de decisiones.'
+
+    Experiencia Profesional:
+      - company: Profesional Independiente
+        position: PMO Analyst / Project Coordination (Proyectos Digitales)
+        location: Santiago, Chile
+        start_date: 2025-07
+        end_date: present
+        highlights:
+          - 'Coordinación simultánea de 3–5 proyectos digitales, monitoreando cronogramas, hitos y entregables.'
+          - 'Apoyo en la planificación de proyectos y organización de backlog bajo metodologías Agile / Scrum.'
+          - 'Seguimiento de KPIs de avance y detección temprana de riesgos o desviaciones.'
+          - 'Elaboración de reportes de estado e informes de avance para stakeholders.'
+          - 'Coordinación entre equipos técnicos y áreas de negocio.'
+          - 'Gestión documental y control de cambios durante el ciclo de vida del proyecto.'
+
+      - company: Freelance
+        position: Project Management Support & Frontend Developer
+        location: Santiago, Chile
+        start_date: 2019-03
+        end_date: present
+        highlights:
+          - 'Gestión integral de proyectos web desde levantamiento de requerimientos hasta entrega final.'
+          - 'Coordinación con clientes y colaboradores técnicos asegurando alineación de alcance, cronograma y entregables.'
+          - 'Documentación funcional y control de cambios, reduciendo retrabajos.'
+          - 'Desarrollo e implementación de sitios en WordPress utilizando HTML, CSS y JavaScript.'
+          - 'Optimización de rendimiento web y SEO on-page.'
+
+      - company: Artel S.A.I.C
+        position: Administrador Local B
+        location: Santiago, Chile
+        start_date: 2018-06
+        end_date: 2018-12
+        highlights:
+          - 'Supervisión de equipo operativo y seguimiento de KPIs comerciales.'
+          - 'Control de inventarios y optimización de procesos operativos.'
+          - 'Gestión y control de gastos operativos.'
+
+      - company: Geservmant C.A.
+        position: Coordinación Administrativa y de Proyectos
+        location: Puerto Ordaz, Venezuela
+        start_date: 2010-09
+        end_date: 2017-07
+        highlights:
+          - 'Supervisión operativa de proyectos y control de presupuestos.'
+          - 'Gestión de contratos y soporte en la documentación legal.'
+          - 'Diseño e implementación de procedimientos operativos internos.'
+          - 'Seguimiento de indicadores de gestión (KPIs) para la mejora de procesos.'
+
+      - company: Venimpres C.A. / Diario Primicia
+        position: Asesor Sistema de Gestión de Calidad
+        location: Puerto Ordaz, Venezuela
+        start_date: 2010-05
+        end_date: 2011-01
+        highlights:
+          - 'Implementación del Sistema de Gestión de Calidad ISO 9001.'
+          - 'Diseño de indicadores de gestión.'
+          - 'Elaboración de manuales y mapas de procesos.'
+
+      - company: Universidad Católica Andrés Bello
+        position: Analista Dirección Sistema de Gestión de Calidad
+        location: Puerto Ordaz, Venezuela
+        start_date: 2009-03
+        end_date: 2010-07
+        highlights:
+          - 'Seguimiento del cumplimiento de estándares ISO 9001.'
+          - 'Apoyo en auditorías internas y procesos de mejora continua.'
+
+    Educación:
+      - institution: Universidad Católica Andrés Bello
+        area: Gerencia de Proyectos
+        degree: Especialista (Carga académica completada, pendiente tesis)
+        location: Venezuela
+        start_date: 2010
+      - institution: Universidad Católica Andrés Bello
+        area: Ingeniería Industrial
+        degree: Ingeniero
+        location: Venezuela
+        start_date: 2004
+        end_date: 2009
+
+    Formación Complementaria:
+      - 'Preparación actual para certificación Scrum (Scrum Fundamentals / Scrum Certification)'
+
+    Habilidades:
+      - label: Gestión de Proyectos
+        details: Planificación de proyectos, Seguimiento de cronogramas, Gestión de alcance, Control de cambios, Gestión de riesgos, Coordinación de stakeholders, Seguimiento de KPIs, Control presupuestario
+      - label: Metodologías
+        details: Agile, Scrum, Mejora continua
+      - label: Herramientas
+        details: Notion, Trello, Microsoft Excel, Google Sheets, Git, Slack
+      - label: Técnicas
+        details: HTML, CSS, JavaScript, WordPress, SEO On-Page
+      - label: Calidad y Procesos
+        details: ISO 9001, Optimización de procesos, Flujogramas, Documentación técnica
+
+    Idiomas:
+      - label: Español
+        details: Nativo
+      - label: Inglés
+        details: Intermedio (lectura y documentación técnica)
+
+design:
+  theme: moderncv
+
+locale:
+  language: spanish
+
+settings:
+  current_date: '2026-03-08'

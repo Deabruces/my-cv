@@ -1,34 +1,29 @@
-# CLAUDE.md
+# Contexto del Proyecto: Deanny Bruces Molina CV
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Este archivo mantiene la memoria del perfil profesional y la estrategia de postulación para asegurar la consistencia en futuras interacciones.
 
-## Project Overview
+## Perfil Profesional
+- **Nombre:** Deanny Bruces Molina
+- **Foco Actual:** Analista PMO / Coordinadora de Proyectos Digitales.
+- **Diferenciador Clave:** Perfil híbrido como Ingeniera Industrial con experiencia técnica en Desarrollo Frontend, actuando como puente entre negocio y tecnología.
 
-Personal CV repository using [RenderCV](https://github.com/rendercv/rendercv) (v2.4) to generate resumes from YAML source files. Outputs PDF, HTML, Markdown, Typst, and PNG formats.
+## Estrategia de Postulación (Evitar Sobrecalificación)
+- **Título:** Analista PMO / Project Coordinator.
+- **Tono:** Enfocado en soporte, análisis, seguimiento de KPIs, gestión documental y metodologías ágiles (Scrum).
+- **Ajustes Realizados:** 
+    - Se suavizaron títulos de cargos anteriores (ej. de "Gerente" a "Coordinación") para alinearlos con posiciones de soporte PMO.
+    - Énfasis en la transición actual hacia la certificación Scrum.
 
-## Build Commands
+## Archivos Clave
+- `deannybruces_updated.yml`: Fuente de verdad para RenderCV.
+- `Carta_Presentacion_PMO_Deanny_Bruces.md`: Carta de presentación optimizada para portales.
+- `update-curriculum.md`: Documento original de mejoras.
 
-```bash
-# Install RenderCV
-pip install rendercv
+## Estado de Portales (Computrabajo)
+- **Headline:** Analista PMO / Coordinadora de Proyectos Digitales.
+- **Resumen:** Texto de 4 puntos optimizado para algoritmos de búsqueda.
+- **Habilidades Técnicas:** Priorización de Scrum, KPIs, Gestión de Riesgos y Excel sobre herramientas de programación pura.
 
-rendercv render deannybruces.yaml
-```
-
-## File Structure
-
-- `deannybruces.yaml` - English CV source (primary)
-
-## YAML Schema
-
-Files use the RenderCV v2.4 schema. Key sections in `cv:`:
-
-- `name`, `headline`, `location`, `email`, `website`
-- `social_networks` (LinkedIn, GitHub)
-- `sections`: summary, experience, projects, education, skills, certifications, languages
-
-The `settings.render_command` block controls output paths and format generation flags.
-
-## Theme
-
-Uses `moderncv` theme. Change via `design.theme` in YAML.
+## Próximos Pasos
+1. Iniciar la fase de postulación a vacantes específicas.
+2. Adaptar el CV/Carta para ofertas concretas si es necesario.

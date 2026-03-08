@@ -10,9 +10,10 @@ cv:
 
   sections:
     Resumen Profesional:
-      - 'Ingeniera Industrial con más de 14 años de experiencia en gestión de proyectos, optimización de procesos y coordinación operativa, con evolución profesional hacia entornos tecnológicos y proyectos digitales.'
-      - 'Experiencia en planificación, seguimiento de KPIs, control presupuestario, gestión de riesgos y coordinación de stakeholders en entornos ágiles.'
-      - 'Background técnico en desarrollo frontend que facilita la comunicación entre negocio y equipos técnicos, asegurando entregables alineados a alcance, tiempo y calidad.'
+      - 'Ingeniera Industrial con más de 14 años de experiencia en gestión de proyectos, optimización de procesos y coordinación operativa en entornos corporativos y tecnológicos.'
+      - 'Especializada en planificación y seguimiento de proyectos digitales, control de KPIs, gestión de riesgos y coordinación de stakeholders para asegurar cumplimiento de alcance, tiempo y calidad.'
+      - 'Experiencia trabajando bajo metodologías ágiles (Scrum) y en entornos de desarrollo web, con capacidad para conectar áreas de negocio con equipos técnicos.'
+      - 'Perfil orientado a la mejora continua, estructuración de procesos y generación de reportes de avance para la toma de decisiones.'
 
     Experiencia Laboral:
       - company: Profesional independiente
@@ -21,11 +22,12 @@ cv:
         end_date: present
         location: Santiago, Chile
         highlights:
-          - 'Coordinación y seguimiento de 3–5 proyectos digitales simultáneos asegurando cumplimiento del 100% de entregables comprometidos'
-          - 'Planificación de tareas, organización de backlog y priorización bajo enfoque Agile/Scrum'
-          - 'Seguimiento de KPIs de avance y gestión de riesgos'
-          - 'Facilitación de comunicación entre stakeholders técnicos y de negocio'
-          - 'Documentación funcional y control de cambios'
+          - 'Coordinación simultánea de 3–5 proyectos digitales, monitoreando cronogramas, hitos y entregables'
+          - 'Apoyo en la planificación de proyectos y organización de backlog bajo metodologías Agile / Scrum'
+          - 'Seguimiento de KPIs de avance y detección temprana de riesgos o desviaciones'
+          - 'Elaboración de reportes de estado e informes de avance para stakeholders'
+          - 'Coordinación entre equipos técnicos y áreas de negocio'
+          - 'Gestión documental y control de cambios durante el ciclo de vida del proyecto'
 
       - company: Freelance
         position: Frontend Developer & Project Management Support
@@ -34,9 +36,9 @@ cv:
         location: Santiago, Chile
         highlights:
           - 'Gestión integral de proyectos web desde levantamiento de requerimientos hasta entrega final'
-          - 'Coordinación con clientes y colaboradores técnicos asegurando alineación de alcance y cronograma'
-          - 'Documentación estructurada y control de cambios reduciendo retrabajos'
-          - 'Implementación en WordPress y tecnologías frontend (HTML, CSS, JavaScript)'
+          - 'Coordinación con clientes y colaboradores técnicos asegurando alineación de alcance, cronograma y entregables'
+          - 'Documentación funcional y control de cambios, reduciendo retrabajos'
+          - 'Desarrollo e implementación de sitios en WordPress utilizando HTML, CSS y JavaScript'
           - 'Optimización de rendimiento web y SEO on-page'
 
       - company: Artel S.A.I.C
@@ -46,8 +48,8 @@ cv:
         location: Santiago, Chile
         highlights:
           - 'Supervisión de equipo operativo y seguimiento de KPIs comerciales'
-          - 'Control de inventarios y optimización de procesos'
-          - 'Gestión de gastos operativos'
+          - 'Control de inventarios y optimización de procesos operativos'
+          - 'Gestión y control de gastos operativos'
 
       - company: Geservmant, c.a.
         position: Gerente Administrativo
@@ -55,10 +57,10 @@ cv:
         end_date: 2017-07
         location: Puerto Ordaz, Venezuela
         highlights:
-          - 'Supervisión de proyectos y control presupuestario'
+          - 'Supervisión de proyectos operativos y control presupuestario'
           - 'Gestión de contratos y documentación legal'
           - 'Diseño e implementación de procedimientos internos'
-          - 'Seguimiento de indicadores de gestión (KPIs)'
+          - 'Seguimiento de indicadores de gestión (KPIs) y mejora de procesos'
 
       - company: Venimpres, c.a. / Diario Primicia
         position: Asesor Sistema de Gestión de Calidad
@@ -66,7 +68,8 @@ cv:
         end_date: 2011-01
         location: Puerto Ordaz, Venezuela
         highlights:
-          - 'Implementación de ISO 9001 y diseño de indicadores de gestión'
+          - 'Implementación del Sistema de Gestión de Calidad ISO 9001'
+          - 'Diseño de indicadores de gestión'
           - 'Elaboración de manuales y mapas de procesos'
 
       - company: Universidad Católica Andrés Bello
@@ -76,7 +79,7 @@ cv:
         location: Puerto Ordaz, Venezuela
         highlights:
           - 'Seguimiento del cumplimiento de estándares ISO 9001'
-          - 'Apoyo en auditorías internas y mejora de procesos'
+          - 'Apoyo en auditorías internas y procesos de mejora continua'
 
     Educación:
       - institution: Universidad Católica Andrés Bello
@@ -86,17 +89,20 @@ cv:
         end_date: 2009
         location: Venezuela
 
+    Formación Complementaria:
+      - 'Preparación actual para certificación Scrum (Scrum Fundamentals / Scrum Certification)'
+
     Habilidades:
-      - label: Project Management
-        details: Gestión de Alcance, Planificación, Control de Cambios, Gestión de Riesgos, Gestión de Stakeholders, Seguimiento de KPIs, Control Presupuestario
+      - label: Gestión de Proyectos
+        details: Planificación de proyectos, Seguimiento de cronogramas, Gestión de alcance, Control de cambios, Gestión de riesgos, Coordinación de stakeholders, Seguimiento de KPIs, Control presupuestario
       - label: Metodologías
-        details: Agile, Scrum, Mejora Continua, Gestión de Backlog
+        details: Agile, Scrum, Mejora continua
       - label: Herramientas
         details: Notion, Trello, Microsoft Excel, Google Sheets, Git, Slack
       - label: Técnicas
         details: HTML, CSS, JavaScript, WordPress, SEO On-Page
       - label: Calidad y Procesos
-        details: ISO 9001, Optimización de Procesos, Flujogramas, Documentación Técnica
+        details: ISO 9001, Optimización de procesos, Flujogramas, Documentación técnica
 
     Idiomas:
       - label: Español
@@ -106,14 +112,9 @@ cv:
 
 design:
   theme: moderncv
-  #engineeringresumes
-  #engineeringclassic
-  #moderncv
-  #sb2nov
-  #classic
 
 locale:
   language: spanish
 
 settings:
-  current_date: '2026-02-17'
+  current_date: '2026-03-08'
