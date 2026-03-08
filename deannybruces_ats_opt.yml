@@ -1,6 +1,6 @@
 cv:
   name: Deanny Bruces Molina
-  headline: Analista PMO | Coordinadora de Proyectos Digitales | Gestión de Proyectos | Agile Scrum | ISO 9001 | Desarrollo Frontend
+  headline: PMO Analyst | Project Coordinator | Digital Project Management | Agile Scrum | ISO 9001 | Frontend Background
   location: Santiago, Chile
   email: deannybruces@gmail.com
   phone: '+56 9 9306 8782'
@@ -9,47 +9,45 @@ cv:
       username: deannybruces
 
   sections:
-    summary:
-      - 'Ingeniera Industrial con más de 14 años de experiencia en gestión de proyectos, optimización de procesos y coordinación operativa, con enfoque en entornos tecnológicos y proyectos digitales.'
-      - 'Experiencia en planificación, seguimiento de KPIs, control presupuestario, gestión de riesgos, coordinación de stakeholders y control de entregables bajo metodologías Agile/Scrum.'
-      - 'Formación de postgrado en Gerencia de Proyectos (carga académica culminada) y background técnico en desarrollo frontend que facilita la comunicación entre negocio y equipos técnicos.'
+    Resumen Profesional:
+      - 'Ingeniera Industrial con más de 14 años de experiencia en gestión de proyectos, optimización de procesos y coordinación operativa, con evolución profesional hacia entornos tecnológicos y proyectos digitales.'
+      - 'Experiencia en planificación, seguimiento de KPIs, control presupuestario, gestión de riesgos y coordinación de stakeholders en entornos ágiles.'
+      - 'Background técnico en desarrollo frontend que facilita la comunicación entre negocio y equipos técnicos, asegurando entregables alineados a alcance, tiempo y calidad.'
 
-    experience:
+    Experiencia Laboral:
       - company: Profesional independiente
-        position: Analista PMO / Coordinadora de Proyectos Digitales
+        position: PMO / Project Coordination (Digital Projects)
         start_date: 2025-07
         end_date: present
         location: Santiago, Chile
         highlights:
-          - 'Coordinación y seguimiento de 3–5 proyectos digitales simultáneos asegurando cumplimiento de alcance, tiempos y calidad'
+          - 'Coordinación y seguimiento de 3–5 proyectos digitales simultáneos asegurando cumplimiento del 100% de entregables comprometidos'
           - 'Planificación de tareas, organización de backlog y priorización bajo enfoque Agile/Scrum'
-          - 'Seguimiento de KPIs, control de avances y gestión de riesgos'
+          - 'Seguimiento de KPIs de avance y gestión de riesgos'
           - 'Facilitación de comunicación entre stakeholders técnicos y de negocio'
-          - 'Documentación funcional, control de cambios y mejora continua de procesos'
+          - 'Documentación funcional y control de cambios'
 
       - company: Freelance
-        position: Desarrolladora Frontend y Soporte en Gestión de Proyectos
+        position: Frontend Developer & Project Management Support
         start_date: 2019-03
         end_date: present
         location: Santiago, Chile
         highlights:
           - 'Gestión integral de proyectos web desde levantamiento de requerimientos hasta entrega final'
-          - 'Coordinación con clientes y equipos técnicos asegurando alineación de alcance y cronograma'
+          - 'Coordinación con clientes y colaboradores técnicos asegurando alineación de alcance y cronograma'
           - 'Documentación estructurada y control de cambios reduciendo retrabajos'
           - 'Implementación en WordPress y tecnologías frontend (HTML, CSS, JavaScript)'
           - 'Optimización de rendimiento web y SEO on-page'
 
       - company: Artel S.A.I.C
-        position: Administradora de Local (Tienda Física)
+        position: Administrador Local B
         start_date: 2018-06
         end_date: 2018-12
         location: Santiago, Chile
         highlights:
-          - 'Supervisión de ventas en tienda física y cumplimiento de metas comerciales'
-          - 'Prevención de riesgos y control de pérdidas operativas'
-          - 'Optimización de procesos internos y gestión de inventarios'
-          - 'Atención y resolución de requerimientos de clientes'
-          - 'Seguimiento de indicadores comerciales y desempeño del equipo'
+          - 'Supervisión de equipo operativo y seguimiento de KPIs comerciales'
+          - 'Control de inventarios y optimización de procesos'
+          - 'Gestión de gastos operativos'
 
       - company: Geservmant, c.a.
         position: Gerente Administrativo
@@ -61,10 +59,9 @@ cv:
           - 'Gestión de contratos y documentación legal'
           - 'Diseño e implementación de procedimientos internos'
           - 'Seguimiento de indicadores de gestión (KPIs)'
-          - 'Optimización de procesos administrativos'
 
       - company: Venimpres, c.a. / Diario Primicia
-        position: Asesora de Sistema de Gestión de Calidad
+        position: Asesor Sistema de Gestión de Calidad
         start_date: 2010-05
         end_date: 2011-01
         location: Puerto Ordaz, Venezuela
@@ -73,7 +70,7 @@ cv:
           - 'Elaboración de manuales y mapas de procesos'
 
       - company: Universidad Católica Andrés Bello
-        position: Analista de Dirección de Sistema de Gestión de Calidad
+        position: Analista Dirección Sistema de Gestión de Calidad
         start_date: 2009-03
         end_date: 2010-07
         location: Puerto Ordaz, Venezuela
@@ -81,23 +78,16 @@ cv:
           - 'Seguimiento del cumplimiento de estándares ISO 9001'
           - 'Apoyo en auditorías internas y mejora de procesos'
 
-    education:
-      - institution: Universidad Católica Andrés Bello
-        area: Gerencia de Proyectos
-        degree: Postgrado en Gerencia de Proyectos (carga académica culminada)
-        start_date: 2012
-        end_date: 2014
-        location: Venezuela
-
+    Educación:
       - institution: Universidad Católica Andrés Bello
         area: Ingeniería Industrial
-        degree: Ingeniera
+        degree: Ingeniero
         start_date: 2004
         end_date: 2009
         location: Venezuela
 
-    skills:
-      - label: Gestión de Proyectos
+    Habilidades:
+      - label: Project Management
         details: Gestión de Alcance, Planificación, Control de Cambios, Gestión de Riesgos, Gestión de Stakeholders, Seguimiento de KPIs, Control Presupuestario
       - label: Metodologías
         details: Agile, Scrum, Mejora Continua, Gestión de Backlog
@@ -108,7 +98,7 @@ cv:
       - label: Calidad y Procesos
         details: ISO 9001, Optimización de Procesos, Flujogramas, Documentación Técnica
 
-    languages:
+    Idiomas:
       - label: Español
         details: Nativo
       - label: Inglés
@@ -116,6 +106,11 @@ cv:
 
 design:
   theme: moderncv
+  #engineeringresumes
+  #engineeringclassic
+  #moderncv
+  #sb2nov
+  #classic
 
 locale:
   language: spanish

@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.4/schema.json
+cv:
+  name: Jorge Saud Rosal
+  headline: Technical Leader | Solutions Architect | 15+ Years Experience
+  location: Santiago, Chile
+  email: jorgelsaud@gmail.com
+  website: https://giorgiosaud.io/
+  social_networks:
+    - network: LinkedIn
+      username: giorgiosaud
+    - network: GitHub
+      username: giorgiosaud
+  sections:
+    summary:
+      - Solutions Architect with 15+ years of experience leading digital transformation in financial institutions across 9 countries.
+      - Expert in API-driven platforms, scalable systems, and building high-performing distributed engineering teams.
+    experience:
+      - company: Modyo
+        position: Customer Solutions Architect
+        start_date: 2022-09
+        end_date: present
+        location: Santiago, Chile
+        highlights:
+          - Delivered 29+ enterprise projects for top-tier banks and financial institutions across LATAM and USA.
+          - Defined architectural strategies and led a frontend team of 25+ developers.
+          - Implemented design-to-code frameworks and CI/CD pipelines reducing deployment time by 40-80%.
+      - company: Modyo
+        position: Front End Architect
+        start_date: 2019-06
+        end_date: 2022-08
+        location: Santiago, Chile
+        highlights:
+          - Led distributed teams across 3 countries for major banking and insurance platforms.
+          - Refactored core CLI tools to be framework-agnostic (Vue, React, Web Components).
+      - company: Zonapro.net
+        position: CTO & Full-Stack Developer
+        start_date: 2012-04
+        end_date: 2018-04
+        location: Venezuela
+        highlights:
+          - Led technical direction for a web agency developing systems with PHP, Laravel, and JavaScript.
+          - Built a currency exchange platform handling high-volume remittance transactions.
+    projects:
+      - name: Modyo MCP Server
+        summary: Model Context Protocol server for managing platform instances via AI assistants.
+        highlights:
+          - Built 110+ tools supporting Claude Code, Gemini CLI, and Cursor.
+      - name: Technical Blog (giorgiosaud.io)
+        summary: Documentation of real-world solutions for financial platforms and modern CSS.
+    education:
+      - institution: Universidad Católica Andrés Bello
+        area: Industrial Engineering
+        degree: Engineer
+        start_date: 2002
+        end_date: 2007
+    skills:
+      - label: Leadership
+        details: Team Leadership, Stakeholder Management, Strategic Planning, Mentorship.
+      - label: Technologies
+        details: Vue.js, React, Node.js, TypeScript, Java Spring Boot, Laravel, AWS, Google Cloud.
+      - label: Architecture
+        details: Microfrontends, API Design, CI/CD, Design Systems, Decoupled Architectures.
+    languages:
+      - label: Spanish
+        details: Native
+      - label: English
+        details: C1 Advanced
+design:
+  theme: moderncv
+settings:
+  current_date: "2026-02-17"
